@@ -1,0 +1,15 @@
+D:\tasks\check_unchecked\check_unchecked\bin\Debug\net6.0\check_unchecked.exe
+D:\tasks\check_unchecked\check_unchecked\bin\Debug\net6.0\check_unchecked.deps.json
+D:\tasks\check_unchecked\check_unchecked\bin\Debug\net6.0\check_unchecked.runtimeconfig.json
+D:\tasks\check_unchecked\check_unchecked\bin\Debug\net6.0\check_unchecked.dll
+D:\tasks\check_unchecked\check_unchecked\bin\Debug\net6.0\check_unchecked.pdb
+D:\tasks\check_unchecked\check_unchecked\obj\Debug\net6.0\check_unchecked.csproj.AssemblyReference.cache
+D:\tasks\check_unchecked\check_unchecked\obj\Debug\net6.0\check_unchecked.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\check_unchecked\check_unchecked\obj\Debug\net6.0\check_unchecked.AssemblyInfoInputs.cache
+D:\tasks\check_unchecked\check_unchecked\obj\Debug\net6.0\check_unchecked.AssemblyInfo.cs
+D:\tasks\check_unchecked\check_unchecked\obj\Debug\net6.0\check_unchecked.csproj.CoreCompileInputs.cache
+D:\tasks\check_unchecked\check_unchecked\obj\Debug\net6.0\check_unchecked.dll
+D:\tasks\check_unchecked\check_unchecked\obj\Debug\net6.0\refint\check_unchecked.dll
+D:\tasks\check_unchecked\check_unchecked\obj\Debug\net6.0\check_unchecked.pdb
+D:\tasks\check_unchecked\check_unchecked\obj\Debug\net6.0\check_unchecked.genruntimeconfig.cache
+D:\tasks\check_unchecked\check_unchecked\obj\Debug\net6.0\ref\check_unchecked.dll
