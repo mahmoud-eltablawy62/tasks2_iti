@@ -1,0 +1,15 @@
+D:\tasks\SearchInArray\SearchInArray\bin\Debug\net6.0\SearchInArray.exe
+D:\tasks\SearchInArray\SearchInArray\bin\Debug\net6.0\SearchInArray.deps.json
+D:\tasks\SearchInArray\SearchInArray\bin\Debug\net6.0\SearchInArray.runtimeconfig.json
+D:\tasks\SearchInArray\SearchInArray\bin\Debug\net6.0\SearchInArray.dll
+D:\tasks\SearchInArray\SearchInArray\bin\Debug\net6.0\SearchInArray.pdb
+D:\tasks\SearchInArray\SearchInArray\obj\Debug\net6.0\SearchInArray.csproj.AssemblyReference.cache
+D:\tasks\SearchInArray\SearchInArray\obj\Debug\net6.0\SearchInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\SearchInArray\SearchInArray\obj\Debug\net6.0\SearchInArray.AssemblyInfoInputs.cache
+D:\tasks\SearchInArray\SearchInArray\obj\Debug\net6.0\SearchInArray.AssemblyInfo.cs
+D:\tasks\SearchInArray\SearchInArray\obj\Debug\net6.0\SearchInArray.csproj.CoreCompileInputs.cache
+D:\tasks\SearchInArray\SearchInArray\obj\Debug\net6.0\SearchInArray.dll
+D:\tasks\SearchInArray\SearchInArray\obj\Debug\net6.0\refint\SearchInArray.dll
+D:\tasks\SearchInArray\SearchInArray\obj\Debug\net6.0\SearchInArray.pdb
+D:\tasks\SearchInArray\SearchInArray\obj\Debug\net6.0\SearchInArray.genruntimeconfig.cache
+D:\tasks\SearchInArray\SearchInArray\obj\Debug\net6.0\ref\SearchInArray.dll
